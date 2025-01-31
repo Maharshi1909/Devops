@@ -1,9 +1,11 @@
-sjfoikakjfkb
-afkjka
-ask
-njkasjfhlkasjl
-asdkfhkaiow
-jasdf
-jagsg
-aksjdhfkhasjf
-hk
+public class login {
+
+ public static void main (String args[]){
+
+int i;
+for (i=0;i<=20;i++) {
+system.out.println ("Number: +i);
+}
+}
+
+}
